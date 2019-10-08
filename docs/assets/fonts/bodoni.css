@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'BodoniRoughC';
+    src: url('BodoniRoughC.eot');
+    src: url('BodoniRoughC.eot?#iefix') format('embedded-opentype'),
+        url('BodoniRoughC.woff2') format('woff2'),
+        url('BodoniRoughC.woff') format('woff'),
+        url('BodoniRoughC.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BodoniC';
+    src: url('BodoniC.eot');
+    src: url('BodoniC.eot?#iefix') format('embedded-opentype'),
+        url('BodoniC.woff2') format('woff2'),
+        url('BodoniC.woff') format('woff'),
+        url('BodoniC.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
